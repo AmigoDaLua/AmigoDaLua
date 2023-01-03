@@ -17,7 +17,7 @@ I've just finalized Harvard's CS50 and now I'm improving my skills by doing [Fla
 and [Harvard's CS50P](https://cs50.harvard.edu/python/2022/).
 
 ## Contact 📫
-You can reach me here or by email: **matheus.zuti@gmail.com**
+You can reach me here at GitHub or by email: **matheus.zuti@gmail.com**
 
 
 
