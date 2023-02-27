@@ -3,7 +3,7 @@
 Hello, world! My name is **Matheus Antunes** and I am book a designer turning into a web developer.
 
 ## My story  💬
-After more than 6 years working my way through words, I've decided to pursue a old passion: computers!
+After more than 6 years of working my way through words, I've decided to pursue an old passion: computers!
 
 Since natural languages and computer languages are not that different, I'm happy to be currently studying:
 
