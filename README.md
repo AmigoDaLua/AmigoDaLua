@@ -1,24 +1,18 @@
 
 # Hi, I am a web developer!
-Hello, world! My name is **Matheus Antunes** and I am book a designer turning into a web developer.
+
+Hello, world! My name is Matheus Pantunes and I am a web developer from Brazil. After more than 6 years of working in book designing, I've decided to pursue an old passion: computers!
 
 ## My story  💬
-After more than 6 years of working my way through words, I've decided to pursue an old passion: computers!
+In 2022, I've started my studies in Programming, focusing on Web Development. I am passionate about Python/Web and my focus is to learn from the best.
 
-Since natural languages and computer languages are not that different, I'm happy to be currently studying:
+So far, I've concluded **Harvard's CS50** and took certifications on [Flask Web Development](https://www.udemy.com/certificate/UC-1512d5cf-228f-43f0-8f21-156731f0783c/) and [SCRUM Fundamentals](https://www.scrumstudy.com/certification/verify?type=SFC&number=960552). I also have [certified english](https://www.efset.org/cert/QQKJU7) and, right now, I am about to finalize **Harvard's CS50P**.
 
-* Python
-* Flask
-* HTML/CSS
-* JavaScript
-* MongoDB
-* SQLite3
+My areas of interest includes: **Python**, **Flask**, **HTML5**, **CSS3**, **JavaScript**, **MongoDB** and **SQLite3**. And my next step will be learning **Django**.
 
-I've just finalized **Harvard's CS50** and [Flask Web Developer Bootcamp](https://www.udemy.com/course/web-developer-bootcamp-flask-python/) 
-and now I'm improving my skills by doing [Harvard's CS50P](https://cs50.harvard.edu/python/2022/).
 
 ## Contact 📫
-You can reach me here at GitHub or by email: **matheus.zuti@gmail.com**
+You can reach me here at GitHub, at [LinkedIn](https://www.linkedin.com/in/matheus-pereira-antunes-5237ba260/) or by email: **matheus.zuti@gmail.com**
 
 
 
