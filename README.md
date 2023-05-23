@@ -8,11 +8,15 @@ In 2022, I've started my studies in Programming, focusing on Web Development. I 
 
 So far, I've concluded **Harvard's CS50** and took certifications on [Flask Web Development](https://www.udemy.com/certificate/UC-1512d5cf-228f-43f0-8f21-156731f0783c/) and [SCRUM Fundamentals](https://www.scrumstudy.com/certification/verify?type=SFC&number=960552). I also have [certified english](https://www.efset.org/cert/QQKJU7) and, right now, I am about to finalize **Harvard's CS50P**.
 
-My areas of interest includes: **Python**, **Flask**, **HTML5**, **CSS3**, **JavaScript**, **MongoDB** and **SQLite3**. Currently I'm focusing in HTML/CSS/JavaScript because I became a student on the **Oracle Next Education** (ONE) program, which makes me very happy!
+My areas of interest includes: **Python**, **Flask**, **HTML5**, **CSS3**, **JavaScript**, **MongoDB** and **SQLite3**. 
+
+Currently I'm focusing in HTML/CSS/JavaScript because I became a student on the **Oracle Next Education** (ONE) program, which makes me very happy!
 
 
 ## Contact 📫
-You can reach me here at GitHub, at [LinkedIn](https://www.linkedin.com/in/matheus-pereira-antunes-5237ba260/) or by email: **matheus.zuti@gmail.com**
+* [Portfolio](https://portfolio-ms95.onrender.com/)
+* [LinkedIn](https://www.linkedin.com/in/matheus-pereira-antunes-5237ba260/)
+* matheus.zuti@gmail.com
 
 
 
