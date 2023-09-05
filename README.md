@@ -10,7 +10,7 @@ So far, I've concluded **Harvard's CS50** and took certifications on [Flask Web 
 
 My areas of interest includes: **HTML5**, **CSS3**, **JavaScript**, **React**, **Python** & **Flask**,. 
 
-Currently I'm focusing in HTML/CSS/JavaScript because I became a student on the **Oracle Next Education** (ONE) program, which makes me very happy!
+Currently I'm focusing on **React.JS** because I became a student on the **Oracle Next Education** (ONE) program, which makes me very happy!
 
 
 ## Contact 📫
