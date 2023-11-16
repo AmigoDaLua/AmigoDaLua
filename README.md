@@ -19,7 +19,7 @@ Since, I've been learning from the best. So far, I've concluded:
 My areas of interest includes: **HTML/CSS**, **JavaScript**, **React.JS**, **Python** & **Flask**. 
 
 After the conclusion of the *Front-End with React.JS* course, I've discovered a whole new world of possibilities thanks to React, this awesome tool.
-So right now I'm studying unit tests with Jest and soon I'll be learning TypeScript. 
+So right now I'm studying unit tests with **Jest** and soon I'll be learning **TypeScript**. 
 
 I also love videogames, so developing 2D games with [Lua](https://www.lua.org/) and **LÖVE** it's right there in the horizon.
 
