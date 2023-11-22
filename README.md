@@ -1,7 +1,7 @@
 
 # Hi, I am a Front-End Developer!
 
-Hello, world! My name is Matheus Pantunes and I am a Front-End Developer from Brazil 🇧🇷. 
+Hello, world! My name is Matheus Pantunes and I am a Front-End Developer from Rio de Janeiro, Brazil 🇧🇷. 
 ## My story  💬
 After more than 6 years of working in [book designing](https://agenciadama.com.br/), I've decided to pursue an old passion: computers! 
 
