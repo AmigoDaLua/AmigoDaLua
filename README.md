@@ -19,11 +19,12 @@ Since, I've been learning from the best. So far, I've concluded:
 My areas of interest includes: **HTML/CSS**, **JavaScript**, **React.JS**, **Python** & **Flask**. 
 
 After the conclusion of the *Front-End with React.JS* course, I've discovered a whole new world of possibilities thanks to React, this awesome tool.
-Right now I'm studying **Data Science with Python** (thanks to Oracle-ONE Alumni Courses), so I'm learning a lot about **Jupyter** and **Pandas**.
+Recently I'm been studying some **Data Science with Python** (thanks to Oracle-ONE Alumni Courses), so I learned a lot about **Jupyter** and **Pandas**.
+But, to be the greatest Front-End Developer I can be I'm diving deep into *React*, *Redux* and *TypeScript*.
 
+**P.S.:** I just discovered **Svelte** and I'm in love! My first project with this one is [here](https://github.com/AmigoDaLua/grau). 
 
-
-I also love videogames, so developing 2D games with [Lua](https://www.lua.org/) and **LÖVE** it's right there in the horizon.
+**P.S.2.:** I also love videogames, so developing 2D games with [Lua](https://www.lua.org/) and **LÖVE** is something that's gonna happen in the future.
 
 ## Contact 📫
 Let's talk!
