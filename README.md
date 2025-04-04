@@ -1,9 +1,9 @@
 
-# Hi, I am a Front-End Developer!
+# Hi, I am a Web Developer!
 
-Hello, world! My name is Matheus Pantunes and I am a Front-End Developer from Rio de Janeiro, Brazil 🇧🇷. 
+Hello, world! My name is Matheus Pantunes and I am a Web Developer from Rio de Janeiro, Brazil 🇧🇷. 
 ## My story  💬
-After more than 6 years of working in [book designing](https://agenciadama.com.br/), I've decided to pursue an old passion: computers! 
+After more than 8 years of working in [book designing](https://agenciadama.com.br/), I've decided to pursue an old passion: computers! 
 
 In 2022, I started **Harvard's CS50** and just after the course I was already focusing on Web Development. I am passionate about the web!
 
@@ -16,15 +16,12 @@ Since, I've been learning from the best. So far, I've concluded:
   
 *I   also have  [certified english](https://www.efset.org/cert/QQKJU7)* 
 
-My areas of interest includes: **HTML/CSS**, **JavaScript**, **React.JS**, **Python** & **Flask**. 
+My areas of interest includes: **HTML/CSS**, **JavaScript**, **React.JS**, **Node.js**, **Python**, **Flask**. 
 
-After the conclusion of the *Front-End with React.JS* course, I've discovered a whole new world of possibilities thanks to React, this awesome tool.
-Recently I'm been studying some **Data Science with Python** (thanks to Oracle-ONE Alumni Courses), so I learned a lot about **Jupyter** and **Pandas**.
-But, to be the greatest Front-End Developer I can be I'm diving deep into *React*, *Redux* and *TypeScript*.
+After the conclusion of the *Front-End with React.JS* course, I've discovered a whole new world of possibilities thanks to React, and now
+I've been studying **Node.js** which really got me into Back-End. And I'm loving it!
 
-**P.S.:** I just discovered **Svelte** and I'm in love! My first project with this one is [here](https://github.com/AmigoDaLua/grau). 
 
-**P.S.2.:** I also love videogames, so developing 2D games with [Lua](https://www.lua.org/) and **LÖVE** is something that's gonna happen in the future.
 
 ## Contact 📫
 Let's talk!
